@@ -1,6 +1,6 @@
 # Petnames: A humane approach to secure, decentralized naming
 
-By Christopher Lemmer Webber, Mark S. Miller, Zachary Larson, Kate Sills,
+By Christine Lemmer-Webber, Mark S. Miller, Zachary Larson, Kate Sills,
 and Eli Yaacoby
 
 > "If we ever show a DID to a user we have failed."
@@ -45,8 +45,6 @@ Consider the following example DID:
 
 Identifiers like this look like gobbledygook to you and me, so how can
 we use them?
-
-
 
 [Petnames](http://www.skyhunter.com/marcs/petnames/IntroPetNames.html)
 offer a way forward by mapping local names to global identifiers and
